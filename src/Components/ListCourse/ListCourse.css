@@ -1,0 +1,22 @@
+.list-courses__item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-bottom: 1px solid #d9dadd;
+}
+
+.list-courses {
+  line-height: 3rem;
+}
+
+.content-course {
+  padding-left: 20px;
+  padding-right: 45px;
+}
+/*# sourceMappingURL=ListCourse.css.map */

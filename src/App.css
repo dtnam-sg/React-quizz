@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+li {
+  list-style: none;
+}
+li a {
+  text-decoration: none;
+}
+.btn-home {
+  position: relative;
+}
+.btn-icon {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  padding: 8px;
+}
+.btn-icon:hover {
+  border-radius: 50%;
+  background-color: var(--gray);
+}

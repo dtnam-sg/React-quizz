@@ -1,0 +1,14 @@
+.list-courses__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #d9dadd;
+}
+
+.list-courses {
+  line-height: 3rem;
+}
+.content-course {
+  padding-left: 20px;
+  padding-right: 45px;
+}

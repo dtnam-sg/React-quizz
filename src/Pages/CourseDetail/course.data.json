@@ -1,0 +1,63 @@
+[
+  {
+    "courseId": ".net",
+    "name": ".NET Framework",
+    "detail": "Basic Structure, Semantics, Multimedia, Forms, Global Attributes"
+  },
+  {
+    "courseId": "angularjs",
+    "name": "Angular JS",
+    "detail": "Components and Directives, Template Syntax, Dependency Injection, Routing, Forms"
+  },
+  {
+    "courseId": "c-sharp",
+    "name": "C#",
+    "detail": "Fundamentals, Objects and Types, Communication, Networking, Intermediate"
+  },
+  {
+    "courseId": "react",
+    "name": "React",
+    "detail": "Components, Tools, ESNext Syntax, Basics, Hooks"
+  },
+  {
+    "courseId": "c++",
+    "name": "C++",
+    "detail": "Syntax and Semantics, Pointers and Data Structures, Object Oriented Programming"
+  },
+  {
+    "courseId": "django",
+    "name": "Django",
+    "detail": "Architecture, Configuration and Infrastructure, Models and Databases, Templates, URL Routing and Requests"
+  },
+  {
+    "courseId": "java",
+    "name": "Java",
+    "detail": "Java Fundamentals, Java Classes and Instances, Core APIs, Java Data Structures, Java System Fundamentals"
+  },
+  {
+    "courseId": "jquery",
+    "name": "jQuery",
+    "detail": "Selecting & Traversing, Events, AJAX, Animation, Install & Deploy"
+  },
+  {
+    "courseId": "node.js",
+    "name": "Node.js",
+    "detail": "Modules, Packages, Events, HTTP, Console"
+  },
+  {
+    "courseId": "kotlin",
+    "name": "Kotlin",
+    "detail": "Classes and Objects, Collections, Functions, Basics, Control Flow"
+  },
+  {
+    "courseId": "php",
+    "name": "PHP",
+    "detail": "Arrays, Classes, Language Basics, Syntax, Utility Functions"
+  },
+
+  {
+    "courseId": "nosql",
+    "name": "NoSQL",
+    "detail": "Using NoSQL, NoSQL Concepts, NoSQL Applications, Core NoSQL, Optimizing NoSQL"
+  }
+]
