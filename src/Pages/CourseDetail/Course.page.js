@@ -105,7 +105,10 @@ const Course = ({ course }) => {
               </span>
             </li>
             <li>
-              <a href="!#" className="course-content__link">
+              <a
+                href="https://dtnam-sg.github.io/CV/"
+                className="course-content__link"
+              >
                 Learn More
               </a>
             </li>
