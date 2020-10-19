@@ -1,6 +1,8 @@
 * {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
+
 :root {
   --primary: #0073b1;
   --primary2: #004b7c;
@@ -10,9 +12,16 @@
   --link: #665ed0;
   --link-hover: #544bc2;
 }
+
 .content {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
   overflow: auto;
   height: 450px;
 }
+/*# sourceMappingURL=Home.css.map */
